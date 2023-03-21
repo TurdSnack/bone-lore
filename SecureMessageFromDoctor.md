@@ -1,4 +1,20 @@
-![background image](https://github.com/TurdSnack/bone-lore/blob/main/texture_clipBoardPaper.png?raw=true)
+<head>
+<style>
+    body {
+        background-image: url(https://github.com/TurdSnack/bone-lore/blob/main/texture_clipBoardPaper.png?raw=true);
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: black;
+        font-family: Arial, sans-serif; /* set font to Arial or a sans-serif font */
+        font-size: 24px; /* set font size to 18 pixels */
+        font-weight: bold; /* set font weight to bold */
+    }
+</style>
+</head>
+
+# <br><br>
+# <br><br>
+
 
 # Secure Message from your Doctor
 
