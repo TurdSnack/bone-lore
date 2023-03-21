@@ -6,8 +6,6 @@
         background-size: cover;
         color: black;
         font-family: Arial, sans-serif; /* set font to Arial or a sans-serif font */
-        font-size: 24px; /* set font size to 18 pixels */
-        font-weight: bold; /* set font weight to bold */
     }
 </style>
 </head>
